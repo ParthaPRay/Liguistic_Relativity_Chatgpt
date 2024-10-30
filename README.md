@@ -5,8 +5,7 @@ This repo contains codes for experiementing linguistic relativity of various lan
 To experiment "Linguistic Relativity" with ChatGPT
 
 # Code
-
+Run python code 'liguistic_relativity_code.py'
 
 # Output
-
 An excel sheet named 'chatgpt_multilingual_responses_linguistic_relativity.xlsx'
